@@ -1,0 +1,11 @@
+com/example/model/Receipt.class
+com/example/controller/ReceiptProcessorController.class
+com/example/service/ReceiptProcessorService.class
+com/example/model/Item.class
+com/example/receiptprocessor/ReceiptProcessorApplication.class
+com/example/model/Process.class
+com/example/service/ReceiptProcessorServiceImpl.class
+com/example/validation/ValidationResponse$ValidationResponseBuilder.class
+com/example/validation/ValidationResponse.class
+com/example/validation/ReceiptValidator.class
+com/example/model/Points.class

@@ -1,0 +1,10 @@
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/controller/ReceiptProcessorController.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/model/Item.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/model/Points.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/model/Process.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/model/Receipt.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/receiptprocessor/ReceiptProcessorApplication.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/service/ReceiptProcessorService.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/service/ReceiptProcessorServiceImpl.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/validation/ReceiptValidator.java
+/Users/erikgomez/IdeaProjects/ReceiptProcessor/src/main/java/com/example/validation/ValidationResponse.java
