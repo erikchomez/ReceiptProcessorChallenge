@@ -9,6 +9,9 @@ This web service processes receipts and assigns points based on predefined rules
 
 The service **does not persist data** beyond application runtime, storing receipt data in memory.
 
+For simplicity's sake, a pre-built JAR is included to avoid the need to run any mvn commands. However, if running locally without docker, mvn clean and package commands are required to build the JAR.
+This is ommitted for the time being, but for the future, it is recommended to remove the JAR.
+
 ---
 
 ## API Endpoints
